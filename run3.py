@@ -3,7 +3,7 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-URL = "http://kodoani.com"  # THAY ĐỔI URL
+URL = "http://shopacclv8.top"  # THAY ĐỔI URL
 REQUESTS = 10000
 CONCURRENCY = 10000
 
